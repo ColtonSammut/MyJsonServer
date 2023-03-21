@@ -1,19 +1,18 @@
 {
-Tasks:[
-        {
-          id: 1,
-          num: 'Task 1 ',
-          Task: 'Go to work'
-        },
-        {
-          id: 2,
-          num: 'Task 2 ',
-          Task: 'Do Home work'
-        },
-        {
-          id: 3,
-          num: 'Task 3 ',
-          Task: 'Take a Break'
-        }
-      ]
+	"tasks": [{
+			"id": 1,
+			"num": "Task 1 ",
+			"Task": "Go to work"
+		},
+		{
+			"id": 2,
+			"num": "Task 2 ",
+			"Task": "Do Home work"
+		},
+		{
+			"id": 3,
+			"num": "Task 3 ",
+			"Task": "Take a Break"
+		}
+	]
 }
